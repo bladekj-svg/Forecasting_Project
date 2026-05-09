@@ -53,7 +53,7 @@
     "from statsmodels.tsa.arima.model import ARIMA\n",
     "from sklearn.ensemble import RandomForestRegressor\n",
     "from sklearn.metrics import mean_absolute_error\n",
-    "from tensorflow.keras.models import Sequential\n",
+    "from sklearn.neural_network import MLPRegressor\n",
     "from tensorflow.keras.layers import Dense\n",
     "\n",
     "\n",
